@@ -2,29 +2,29 @@
 This repository contains implementations of various data structures and algorithms in C++. The following files are included:
 
 ## File Descriptions
-1. [Binary_Tree.cpp](Binary_Tree.cpp)
-This file contains the implementation of a binary tree data structure. The binary tree includes various functions for insertion, deletion, traversal (in-order, pre-order, post-order), and search operations.
-### Features:
+**1. [Binary_Tree.cpp](Binary_Tree.cpp)**
+This file contains the implementation of a binary tree data structure. The binary tree includes various functions for insertion, deletion, traversal (in-order, pre-order, post-order), and search operations.<br>
+**Features:**
 - Building Tree
 - In-order, Pre-order, and Post-order traversals
 
-2. [Merge_Sort.cpp](Merge_Sort.cpp)
-This file implements the merge sort algorithm, a divide-and-conquer sorting technique.
-### Features:
+**2. [Merge_Sort.cpp](Merge_Sort.cpp)**
+This file implements the merge sort algorithm, a divide-and-conquer sorting technique.<br>
+**Features:**
 - Splitting the array into sub-arrays
 - Merging sorted sub-arrays
 - Sorting in O(n log n) time complexity
 
-3. [Quick_Sort.cpp](Quick_Sort.cpp)
-This file contains the implementation of the quick sort algorithm, another efficient divide-and-conquer sorting method.
-### Features:
+**3. [Quick_Sort.cpp](Quick_Sort.cpp)**
+This file contains the implementation of the quick sort algorithm, another efficient divide-and-conquer sorting method.<br>
+**Features:**
 - Partitioning the array
 - Recursively sorting the partitions
 - Sorting in average O(n log n) time complexity
 
-4. [Stack_Queue_List.cpp](Stack_Queue_List.cpp)
-This file includes the implementation of stack, queue, and list data structures.
-### Features:
+**4. [Stack_Queue_List.cpp](Stack_Queue_List.cpp)**
+This file includes the implementation of stack, queue, and list data structures.<br>
+**Features:**
 - Stack operations: push, pop, top, isEmpty
 - Queue operations: enqueue, dequeue, front, isEmpty
 - List operations: insertion, deletion, traversal
